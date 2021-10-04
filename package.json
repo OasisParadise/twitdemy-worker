@@ -1,0 +1,25 @@
+{
+  "name": "twitdemy-worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-fetch": "^3.0.0",
+    "twitter-lite": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OasisParadise/twitdemy-worker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OasisParadise/twitdemy-worker/issues"
+  },
+  "homepage": "https://github.com/OasisParadise/twitdemy-worker#readme"
+}
